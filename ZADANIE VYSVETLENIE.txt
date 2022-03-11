@@ -1,0 +1,10 @@
+V subore najdete zakladny template ktory pouzivame pre newslettre.
+
+Kandidat by mal vyuzit sucasny kod a ten prisposobit tak, aby dosiahol vizualnu podobu blokov v Zadani 1 a Zadani 2. 
+Url odkazy a dodatocne info je v kazdom zadani v textovom subore 'Vysvetlivky a url obrazkov'. 
+
+Finalny html subor bude obsahovat 3 bloky v poradi - Header a ostatne texty ostavaju, ide len o bloky v zadaniach 1 a 2. 
+
+1. Aktualny DEMO blok (ktory tam uz je nakodeny ako ukazka v subore Template - basic)
+2. Blok zo Zadania 1
+3. Blok zo Zadania 2

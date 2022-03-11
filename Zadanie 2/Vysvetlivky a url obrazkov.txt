@@ -1,0 +1,6 @@
+Obrazky pre sablonu: 
+
+1. Instagram promo (1400x440px)
+https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/558cba14-8a46-11e6-8da1-141877340e97/Jasn%C3%A1%20nechyta%C5%A5/IG-1400x440.jpg
+
+Linky (a href) prosim pouzit len '#'
